@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.1.0...esconfig-v0.1.1) (2026-03-17)
+
+
+### Bug Fixes
+
+* org case sensitivity provenance ([#3](https://github.com/RevenueCat/esconfig/issues/3)) ([a9d49ba](https://github.com/RevenueCat/esconfig/commit/a9d49baa357d8d9aca9f2ca3fb045dbcb2eb209b))
+
 ## [0.1.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.0.1...esconfig-v0.1.0) (2026-03-17)
 
 
