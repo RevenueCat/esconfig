@@ -7,14 +7,14 @@ Shared ECMAScript Config (TypeScript, oxlint, oxfmt)
 1. Install
 
    ```sh
-   pnpm add -D @nihalgonsalves/esconfig typescript oxlint oxlint-tsgolint oxfmt
+   pnpm add -D @revenuecat/esconfig typescript oxlint oxlint-tsgolint oxfmt
    ```
 
 2. `tsconfig.json`
 
    ```json
    {
-     "extends": "@nihalgonsalves/esconfig/tsconfig.shared.json",
+     "extends": "@revenuecat/esconfig/tsconfig.shared.json",
      "compilerOptions": {
        "outDir": "./build",
        "rootDir": "./src"
@@ -30,9 +30,9 @@ Shared ECMAScript Config (TypeScript, oxlint, oxfmt)
    ```jsonc
    {
      "extends": [
-       "node_modules/@nihalgonsalves/esconfig/.oxlintrc.json",
+       "node_modules/@revenuecat/esconfig/.oxlintrc.json",
        // optional:
-       "node_modules/@nihalgonsalves/esconfig/.oxlintrc.react.json",
+       "node_modules/@revenuecat/esconfig/.oxlintrc.react.json",
      ],
    }
    ```
