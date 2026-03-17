@@ -4,10 +4,7 @@
   "description": "Shared ECMAScript Config (TypeScript, oxlint, oxfmt)",
   "license": "MIT",
   "author": "RevenueCat, Inc.",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/revenuecat/esconfig.git"
-  },
+  "repository": "https://github.com/RevenueCat/esconfig",
   "files": [
     ".oxlintrc.json",
     ".oxlintrc.react.json",
