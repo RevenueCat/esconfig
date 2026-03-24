@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.1.1...esconfig-v0.2.0) (2026-03-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* typescript v6 ([#5](https://github.com/RevenueCat/esconfig/issues/5))
+
+### Features
+
+* typescript v6 ([#5](https://github.com/RevenueCat/esconfig/issues/5)) ([fe75d62](https://github.com/RevenueCat/esconfig/commit/fe75d621a6e62a3a66486c6faae3d1de6888a03e))
+
 ## [0.1.1](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.1.0...esconfig-v0.1.1) (2026-03-17)
 
 
