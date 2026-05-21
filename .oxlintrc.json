@@ -103,6 +103,8 @@
       }
     ],
     "no-var": "error",
+    // this is a common pattern currently
+    "no-map-spread": "off",
     "object-shorthand": "error",
     "prefer-const": "error",
     "prefer-rest-params": "error",
