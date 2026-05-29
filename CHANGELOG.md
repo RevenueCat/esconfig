@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.2.0...esconfig-v0.2.1) (2026-05-29)
+
+
+### Features
+
+* update linters ([#8](https://github.com/RevenueCat/esconfig/issues/8)) ([eed9dba](https://github.com/RevenueCat/esconfig/commit/eed9dba30c7337d37c267030a6d7209bd981e077))
+
 ## [0.2.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.1.1...esconfig-v0.2.0) (2026-03-24)
 
 
