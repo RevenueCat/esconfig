@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.2.1...esconfig-v0.3.0) (2026-06-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* `react-hooks-js/...` disables need to be moved to `react/react-compiler`
+* use native oxc react-compiler rule
+
+### Features
+
+* use native oxc react-compiler rule ([62b6c73](https://github.com/RevenueCat/esconfig/commit/62b6c736a2ab1b996a3db48ce0289e780564317a))
+* use native oxc react-compiler rule ([#10](https://github.com/RevenueCat/esconfig/issues/10)) ([855574d](https://github.com/RevenueCat/esconfig/commit/855574d3d152cc80ed75654f67f393b90c064886))
+
 ## [0.2.1](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.2.0...esconfig-v0.2.1) (2026-05-29)
 
 
