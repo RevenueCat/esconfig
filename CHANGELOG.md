@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.4.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.3.0...esconfig-v0.4.0) (2026-08-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* use oxc-native react compiler rules
+
+### Features
+
+* **deps/peers:** bump the all group across 1 directory with 4 updates ([#273](https://github.com/RevenueCat/esconfig/issues/273)) ([263bd1b](https://github.com/RevenueCat/esconfig/commit/263bd1b3373a79c80bf78161da4761f39352c5ad))
+* use oxc-native react compiler rules ([da4186f](https://github.com/RevenueCat/esconfig/commit/da4186f1ddcb89ec72a8639ce21fc476e6b348e5))
+
+
+### Bug Fixes
+
+* **oxlint:** remove react compiler nursery rule ([#277](https://github.com/RevenueCat/esconfig/issues/277)) ([a2bc43d](https://github.com/RevenueCat/esconfig/commit/a2bc43d78bbb1be39ff06ef9e4100053842fb69a))
+
 ## [0.3.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.2.1...esconfig-v0.3.0) (2026-06-23)
 
 
