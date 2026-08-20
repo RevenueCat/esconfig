@@ -23,21 +23,21 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^24.12.4",
-    "knip": "^6.15.0",
-    "lefthook": "^2.1.9",
-    "oxfmt": "^0.55.0",
-    "oxlint": "^1.70.0",
-    "oxlint-tsgolint": "^0.23.0",
-    "typescript": "^6.0.3"
+    "@types/node": "^24.13.3",
+    "knip": "^6.32.2",
+    "lefthook": "^2.1.10",
+    "oxfmt": "^0.63.0",
+    "oxlint": "^1.78.0",
+    "oxlint-tsgolint": "^7.0.2001",
+    "typescript": "^7.0.2"
   },
   "peerDependencies": {
     "eslint-plugin-jest-dom": "^5.5.0",
     "eslint-plugin-storybook": "^10.2.16",
     "eslint-plugin-testing-library": "^7.16.0",
-    "oxlint": "^1.71.0",
-    "oxlint-tsgolint": "^0.23.0",
-    "typescript": "^6.0.3"
+    "oxlint": "^1.78.0",
+    "oxlint-tsgolint": "^7.0.2001",
+    "typescript": "^7.0.2"
   },
   "peerDependenciesMeta": {
     "eslint-plugin-jest-dom": {
