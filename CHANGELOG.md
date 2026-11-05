@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.4.1](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.4.0...esconfig-v0.4.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* **deps:** bump the all group with 2 updates (https://github.com/nihalgonsalves/esconfig/pull/279) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 2 updates (https://github.com/nihalgonsalves/esconfig/pull/288) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 3 updates (https://github.com/nihalgonsalves/esconfig/pull/281) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 4 updates (https://github.com/nihalgonsalves/esconfig/pull/280) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 4 updates (https://github.com/nihalgonsalves/esconfig/pull/286) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 5 updates (https://github.com/nihalgonsalves/esconfig/pull/282) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 5 updates (https://github.com/nihalgonsalves/esconfig/pull/284) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 5 updates (https://github.com/nihalgonsalves/esconfig/pull/285) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 6 updates (https://github.com/nihalgonsalves/esconfig/pull/287) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** bump the all group with 7 updates (https://github.com/nihalgonsalves/esconfig/pull/283) ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* **deps:** upgrade all ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* fix devcontainer ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+* use node 26 lts ([cba114e](https://github.com/RevenueCat/esconfig/commit/cba114e4eeec8877f75e11a0ff949591b913aa34))
+
 ## [0.4.0](https://github.com/RevenueCat/esconfig/compare/esconfig-v0.3.0...esconfig-v0.4.0) (2026-08-20)
 
 
